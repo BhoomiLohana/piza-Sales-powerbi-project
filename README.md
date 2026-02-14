@@ -1,140 +1,121 @@
-🍕 Pizza Sales Analysis Dashboard (Power BI)
-📌 Project Overview
+# 🍕 Pizza Sales Analysis Dashboard
 
-The Pizza Sales Analysis Dashboard is an interactive Power BI report designed to analyze pizza business performance from January 2015 to December 2015.
+## 📌 Project Overview
 
-This dashboard transforms raw sales data into meaningful insights to help stakeholders make data-driven decisions.
+The **Pizza Sales Analysis Dashboard** is an interactive Power BI report that analyzes pizza sales performance from **January 2015 to December 2015**.
 
-📊 Dashboard Pages
-🏠 Page 1 – Home (Overview)
+This project focuses on transforming raw transactional data into actionable business insights using data modeling, DAX, and advanced visualizations.
 
-This page provides a high-level summary of overall performance.
+---
 
-Key KPIs:
+## 🖼 Dashboard Preview
 
-Total Revenue
+### 🏠 Home Page
+<img src="images/home_dashboard.png" width="100%">
 
-Average Order Value
+### 📉 Best & Worst Sellers Page
+<img src="images/best_worst_dashboard.png" width="100%">
 
-Total Pizzas Sold
+> 📌 *Replace image paths with your actual screenshot file names.*
 
-Total Orders
+---
 
-Average Pizzas per Order
+## 📊 Dashboard Features
 
-Visualizations Included:
+### 🔹 Key Performance Indicators (KPIs)
+- Total Revenue  
+- Total Orders  
+- Total Pizzas Sold  
+- Average Order Value  
+- Average Pizzas per Order  
 
-Daily Trend of Total Orders
+### 📈 Sales Analysis
+- Daily Order Trend  
+- Monthly Order Trend  
+- Sales Distribution by Category  
+- Sales Distribution by Size  
+- Top 5 & Bottom 5 Pizzas by Revenue  
+- Top 5 & Bottom 5 Pizzas by Quantity  
+- Top 5 & Bottom 5 Pizzas by Orders  
 
-Monthly Trend of Total Orders
+---
 
-% of Sales by Pizza Category
+## 🔍 Key Business Insights
 
-% of Sales by Pizza Size
+- Classic category contributes the highest overall sales.
+- Large size pizzas generate the maximum revenue share.
+- Sales peak on Wednesday, Thursday, and Saturday evenings.
+- January records the highest monthly performance.
+- Brie Carre is the lowest-performing pizza across multiple KPIs.
 
-Total Pizza Sold by Category
+---
 
-Key Insights:
+## 🛠 Tools & Technologies
 
-Classic category contributes the highest sales.
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- **Power Query**
+- **Data Modeling**
 
-Large size pizzas generate maximum revenue.
+---
 
-Orders peak on Wednesday, Thursday, and Saturday evenings.
+## 📂 Dataset Details
 
-January recorded the highest monthly sales.
+The dataset includes:
 
-📉 Page 2 – Best & Worst Sellers
+- Order ID  
+- Order Date  
+- Pizza Name  
+- Pizza Category  
+- Pizza Size  
+- Quantity  
+- Price  
+- Revenue  
 
-This page analyzes top and bottom performing pizzas.
+**Time Period:** Jan 2015 – Dec 2015
 
-Top 5 Analysis:
+---
 
-Top 5 by Revenue
+## 📌 DAX Measures Implemented
 
-Top 5 by Quantity
+- Total Revenue  
+- Total Orders  
+- Total Quantity  
+- Average Order Value  
+- Average Pizza per Order  
+- Ranking (Top & Bottom 5)  
+- Percentage Contribution  
 
-Top 5 by Orders
+---
 
-Bottom 5 Analysis:
+## 🎯 Business Value
 
-Bottom 5 by Revenue
+This dashboard enables stakeholders to:
 
-Bottom 5 by Quantity
+- Identify high and low performing products  
+- Optimize menu strategy  
+- Improve sales planning  
+- Analyze seasonal patterns  
+- Make data-driven business decisions  
 
-Bottom 5 by Orders
+---
 
-Key Findings:
+## 🚀 Future Enhancements
 
-Thai Chicken Pizza generates the highest revenue.
+- Profit Margin Analysis  
+- Year-over-Year Growth  
+- Month-over-Month Growth %  
+- Drill-through Pages  
+- Customer Segmentation  
 
-Classic Deluxe has the highest order frequency.
+---
 
-Brie Carre is the lowest performing product.
+## 👤 Author
 
-Underperforming pizzas may require promotional strategy or menu optimization.
+**Bhoomi Lohana**  
+Aspiring Data Analyst | Power BI Developer  
 
-🛠 Tools & Technologies Used
+📧 Connect with me on LinkedIn  
+💼 Open for Data Analyst Opportunities  
 
-Power BI Desktop
-
-DAX (Data Analysis Expressions)
-
-Data Modeling
-
-Power Query
-
-📂 Dataset Details
-
-The dataset contains:
-
-Order ID
-
-Order Date
-
-Pizza Name
-
-Pizza Category
-
-Pizza Size
-
-Quantity
-
-Price
-
-Revenue
-
-Time Period: January 2015 – December 2015
-
-📌 DAX Measures Created
-
-Total Revenue
-
-Total Orders
-
-Total Quantity
-
-Average Order Value
-
-Average Pizza per Order
-
-Top & Bottom 5 Ranking
-
-🎯 Business Value
-
-This dashboard helps:
-
-Identify best and worst selling pizzas
-
-Understand sales trends
-
-Analyze customer ordering patterns
-
-Improve menu strategy
-
-Support data-driven decision making
-
-👤 Author
-
-Laksh Lohana
-Aspiring Data Analyst | Power BI Developer
+---
