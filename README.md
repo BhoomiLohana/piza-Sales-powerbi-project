@@ -11,10 +11,10 @@ This project focuses on transforming raw transactional data into actionable busi
 ## 🖼 Dashboard Preview
 
 ### 🏠 Home Page
-<img src="images/home_dashboard.png" width="100%">
+<img src=""C:\Users\Admin\Pictures\Screenshots\piza sales dashboard home.png"">
 
 ### 📉 Best & Worst Sellers Page
-<img src="images/best_worst_dashboard.png" width="100%">
+<img src=""C:\Users\Admin\Pictures\Screenshots\piza sales dashboard2.png"">
 
 > 📌 *Replace image paths with your actual screenshot file names.*
 
