@@ -16,7 +16,7 @@ This project focuses on transforming raw transactional data into actionable busi
 ### 📉 Best & Worst Sellers Page
 <img src=""C:\Users\Admin\Pictures\Screenshots\piza sales dashboard2.png"">
 
-> 📌 *Replace image paths with your actual screenshot file names.*
+
 
 ---
 
